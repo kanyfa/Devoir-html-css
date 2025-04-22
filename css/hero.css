@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial,sans-serif;
+
+}
+.hero-content{
+    background-color: rgba(white red, green, blue, alpha);
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+
+
+}
+
+.AA{
+    color: #66E13f;
+    font-weight: bold;
+}
+
+
+.hero{
+    background-image: url('../image/Group\ 20968.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white v;
+    text-align: center;
+  
+}
+
+
+.cta{
+    display: inline-block;
+    background-color: #0044FF;
+    color: white;
+    padding: 24px 36px;
+    border-radius: 8px;
+    transition-duration: 0.5s;
+}
+
+
+
